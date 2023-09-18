@@ -1,0 +1,31 @@
+h2 {
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.add-block {
+  margin-top: 20px;
+}
+
+input {
+  border-radius: 12px;
+  width: 150px;
+  height: 25px;
+}
+
+button {
+  height: 30px;
+  background-color: rgb(59, 227, 59);
+  border-radius: 9px;
+  cursor: pointer;
+  border: 2px;
+
+  font-size: 14px;
+  font-weight: 400;
+
+  transition: all 0.2s ease-in-out;
+}
+
+button:hover {
+  opacity: 0.9;
+}
